@@ -1,4 +1,4 @@
-# WebScrappingLiterature
+# Targeted_Literature_Reviews_via_webscrapping
 
 Web scraping to get articles for a given query. It returns an spreadsheet with titles, abstracts, doi and references of the article
 
