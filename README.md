@@ -13,4 +13,6 @@ For a given query, you can get:
 3) an xlsx file with the titles and abstracts of the references as well together with their degree (i.e. the number of connections in the graph). The higher the degree, the more papers in your query citing it
 
 For the example query "Radiomics"AND"CT"AND"Ovarian Cancer" we get:
+
+
 ![alt text](https://github.com/paulamartingonzalez/WebScrappingLiterature/blob/main/Unknown-7.png)
