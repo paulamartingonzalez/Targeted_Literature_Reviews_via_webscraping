@@ -1,4 +1,6 @@
-# Targeted_Literature_Reviews_via_webscrapping
+![alt text](https://github.com/paulamartingonzalez/Targeted_Literature_Reviews_via_webscrapping/blob/main/repository-open-graph-template.jpg)
+
+# Targeted Literature Reviews_via webscrapping
 
 Web scraping to get articles for a given query. It returns an spreadsheet with titles, abstracts, doi and references of the article
 
@@ -14,5 +16,7 @@ For a given query, you can get:
 
 For the example query "Radiomics"AND"CT"AND"Ovarian Cancer" we get:
 
-
 ![alt text](https://github.com/paulamartingonzalez/WebScrappingLiterature/blob/main/Unknown-7.png)
+
+
+If you have any suggestion to improve the code, please feel free to raise an Issue!
