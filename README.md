@@ -1,6 +1,6 @@
-![alt text](https://github.com/paulamartingonzalez/Targeted_Literature_Reviews_via_webscrapping/blob/main/tlr.jpg)
+![alt text](https://github.com/paulamartingonzalez/Targeted_Literature_Reviews_via_webscrapping/blob/main/tlr2.jpg)
 
-# Targeted Literature Reviews_via webscraping
+# Targeted Literature Reviews using webscraping on PubMed
 
 Web scraping to get articles for a given query. It returns an spreadsheet with titles, abstracts, doi and references of the article
 
