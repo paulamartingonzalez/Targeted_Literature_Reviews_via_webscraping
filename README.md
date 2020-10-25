@@ -1,6 +1,6 @@
 ![alt text](https://github.com/paulamartingonzalez/Targeted_Literature_Reviews_via_webscrapping/blob/main/tlr.jpg)
 
-# Targeted Literature Reviews_via webscrapping
+# Targeted Literature Reviews_via webscraping
 
 Web scraping to get articles for a given query. It returns an spreadsheet with titles, abstracts, doi and references of the article
 
