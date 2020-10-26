@@ -8,6 +8,8 @@ It works on Pubmed and it is based on biopython: https://biopython.org
 
 You can run it on Google Colab without downloading anything locally! :) https://research.google.com/colaboratory/faq.html
 
+## How it works?
+
 For a given query, you can get:
 
 1) an xlsx file with the titles and abstracts of the papers in your query
@@ -24,5 +26,14 @@ For the example query "Radiomics"AND"CT"AND"Ovarian Cancer" we get:
 
 
 
+## Next steps:
+- At the moment it only works on PubMed. I'm working on making it work in arxiv and bioarxiv as well. Implementation in Google Scholar is complicated but I am also trying to get my head around it.
+- I'm working on an implementation that requires no code whatsoever - via website or widgets.
+- It would be great to import the articles to Mendeley, so I'm also working on that!
 
 If you have any suggestion to improve the code, please feel free to raise an Issue!
+
+## Questions:
+
+### What happens to articles behind a paywall? 
+You'll be able to get the abstract but unfortunately not the references. So those won't be added to the graph. Open science is the way to go!!
